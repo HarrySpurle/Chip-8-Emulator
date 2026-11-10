@@ -5,3 +5,5 @@ The Chip-8 is a virtual machine developed for creating simple games. It has 4KiB
 ## Quickstart
 
 To run my emulator, open the directory in a terminal such as msys UCRT64 and run "make". This will install the required dependencies, compile the program, and open pong on the emulator. If you would like to play another game from the games/ folder, run "./chip8.exe games/GAMENAME"
+
+##NOTE: Not all operands have yet been implemented, so not all games are fully functional
